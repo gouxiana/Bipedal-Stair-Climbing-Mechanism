@@ -93,24 +93,11 @@
 
 仓库中的视频来自运动测试与仿真记录。GitHub 页面可直接打开或下载 MP4 文件。
 
-- [嵌入式仿真片段](videos/simulation-embedded.mp4)
-- [运动测试片段 10](videos/motion-test-10.mp4)
-- [运动测试片段 11](videos/motion-test-11.mp4)
-- [运动测试片段 01](videos/motion-test-01.mp4)
+- [主视角仿真片段](videos/simulation-embedded.mp4)
+- [全方位仿真视频](videos/motion-test-06.mp4)
+- [足部结构概念设计测试片段 01](videos/motion-test-01.mp4)
+- [足部结构初期设计测试片段 02](videos/motion-test-02.mp4)
 
-<details>
-<summary>查看全部运动测试视频</summary>
-
-- [运动测试片段 02](videos/motion-test-02.mp4)
-- [运动测试片段 03](videos/motion-test-03.mp4)
-- [运动测试片段 04](videos/motion-test-04.mp4)
-- [运动测试片段 05](videos/motion-test-05.mp4)
-- [运动测试片段 06](videos/motion-test-06.mp4)
-- [运动测试片段 07](videos/motion-test-07.mp4)
-- [运动测试片段 08](videos/motion-test-08.mp4)
-- [运动测试片段 09](videos/motion-test-09.mp4)
-
-</details>
 
 ## 项目亮点
 
