@@ -93,7 +93,8 @@
 
 仓库中的视频来自运动测试与仿真记录。GitHub 页面可直接打开或下载 MP4 文件。
 
-- [主视角仿真片段](videos/simulation-embedded.mp4)
+- [斜二侧视角仿真视频](videos/simulation-embedded.mp4)
+- [主视角仿真视频](videos/motion-test-05.mp4)
 - [全方位仿真视频](videos/motion-test-06.mp4)
 - [足部结构概念设计测试片段 01](videos/motion-test-01.mp4)
 - [足部结构初期设计测试片段 02](videos/motion-test-02.mp4)
